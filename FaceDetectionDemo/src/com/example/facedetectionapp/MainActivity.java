@@ -13,8 +13,6 @@ import com.example.cameraapp.R;
 import com.google.android.glass.touchpad.Gesture;
 import com.google.android.glass.touchpad.GestureDetector;
 
-
-
 public class MainActivity extends Activity {
     // For tap event
     private GestureDetector mGestureDetector;
