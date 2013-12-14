@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trigger keyword="@string/camerademo_voice_trigger">
+
+<!--
+    <input prompt="@string/camerademo_voice_prompt" />
+-->
+<!--
+    <constraints camera="true" network="true" microphone="true" />
+    <constraints network="true" microphone="true" />
+-->
+
+</trigger>

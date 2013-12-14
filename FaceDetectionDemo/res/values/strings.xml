@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera App</string>
+
+    <!--  For voice input  -->
+    <string name="camerademo_voice_trigger">Start Face Detection</string>
+    <string name="camerademo_voice_prompt">next action</string>
+
+    <!--  For menu  -->
+    <string name="menu_item_stop">Stop</string>
+</resources>
